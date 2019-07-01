@@ -10,7 +10,6 @@ class App extends Component {
             <div id="container">
                 <TopNav />
                 <LeftView />
-                <Image />
             </div>
         )
     }

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import Header from './header';
+import Header from './header.js';
+import Image from './image.js';
 import '../css/app/left-view.css';
 
 class LeftView extends Component {
@@ -7,6 +8,7 @@ class LeftView extends Component {
         return(
             <div id="leftview">
                 <Header />
+                <Image />
             </div>
         )
     }
