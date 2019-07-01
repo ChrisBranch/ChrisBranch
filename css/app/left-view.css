@@ -1,0 +1,23 @@
+.border-right {
+    border-right: 1px #e1e4e8 solid !important;
+}
+.border-box {
+    box-sizing: border-box;
+}
+.width-25{
+    width: 25%;
+}
+.px-md-6 {
+    padding-right: 40px !important;
+    padding-left: 40px !important;
+}
+.py-6 {
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+}
+.border-gray-light {
+
+    border-color: #eaecef !important;
+    border-right-color: rgb(234, 236, 239);
+
+}
